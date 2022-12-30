@@ -1,6 +1,5 @@
 # Zestawy Arduino Uno
 
-<div style="text-align: justify">
 
 Zestawy laboratoryjne Arduino Uno zawierają podstawowe elementy pomiarowe i wykonawcze
 niezbędne do realizacji zadań laboratoryjnych z przedmiotów takich jak systemy wbudowane (SW),
@@ -13,6 +12,4 @@ trzyosobowym). Na pierwszych zajęciach laboratoryjnych (tzw. organizacyjnych) p
 grupę laboratoryjną na zespoły i przydziela im zestaw o określonym identyfikatorze. Od tego momentu zespół laboratoryjny odpowiada za powierzony zestaw i zobowiązana jest do każdorazowego
 sprawdzenia kompletności zestawu na początku i końcu zajęć. **W przypadku wystąpienia braku
 kompletności zestawu, zespół powinien niezwłocznie zgłosić to prowadzącemu zajęcia.**
-
-</div>
 
